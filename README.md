@@ -2,3 +2,5 @@
 Milan
 Jarda
 Franta
+Laskej
+Adolf
